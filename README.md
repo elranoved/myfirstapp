@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MyFirstApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.3.
@@ -25,3 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# myfirstapp
+>>>>>>> 557946993e808ec2a21f73d0349cacdf8f58fe0c
